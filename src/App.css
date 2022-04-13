@@ -1,16 +1,5 @@
-.App {
-  text-align: center;
-}
-
-.card {
-  width: 30%;
-  border-radius: 10px;
-  padding: 15px;
-  margin: 10px;
-  color: #000;
-  border: 1px solid #333;
-}
-
-/* .card-desc {
+.count {
   display: flex;
-} */
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
